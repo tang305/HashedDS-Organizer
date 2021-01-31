@@ -1,7 +1,6 @@
 //  Lily Tang
 //  main.cpp
 //  Lab 6
-// replace lab 1 score: 15/20 :(
 
 
 #include <iostream>
